@@ -82,7 +82,7 @@ elif page == "Model Dashboard":
     }
 
     # Top logo
-    st.image("images/logo.png", width=100)
+    st.image("images/logo.jpg", width=100)
 
     col1, col2 = st.columns(2)
 
