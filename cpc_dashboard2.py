@@ -25,7 +25,7 @@ if page == "Overview":
     # Logo and title
     col1, col2 = st.columns([1, 10])
     with col1:
-        st.image("images/logo.png", width=100)
+        st.image("images/logo.jpg", width=100)
     with col2:
         st.title("Cleaning Profile Classification using Convolutional Neural Network in Stencil Printing")
 
