@@ -27,7 +27,7 @@ if page == "Overview":
     with col1:
         st.image("images/logo.jpg", width=100)
     with col2:
-        st.title("Cleaning Profile Classification using Convolutional Neural Network in Stencil Printing")
+        st.title("Shallow CNN Approach for Cleaning Profile Classification in Stencil Printing with LIME-Generated Training Data")
 
     st.markdown("### Research Overview")
     st.markdown("""
